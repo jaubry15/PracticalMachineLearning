@@ -1,6 +1,6 @@
 ---
 title: "Final Project Report - Practical Machine Learning Course"
-output: html_document
+output: pdf_document
 ---
 
 Author: Jared Aubry
