@@ -287,8 +287,9 @@ Random Forests yielded better Results, as expected!
 
 Finally, using the provided Test Set:
 Note:
-#For Decision Tree would be like this, but not going to use it:
-#predictionsA2 <- predict(modFitA1, testing, type = "class")
+
+For Decision Tree would be like this, but not going to use it:
+predictionsA2 <- predict(modFitA1, testing, type = "class")
 
 For Random Forests is, which yielded a much better prediction:
 
